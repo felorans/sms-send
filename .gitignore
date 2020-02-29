@@ -5,10 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
+*.swp
 
 # Distribution / packaging
 .Python
 build/
+vnv/
 develop-eggs/
 dist/
 downloads/
